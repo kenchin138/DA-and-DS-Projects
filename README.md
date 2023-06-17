@@ -9,5 +9,6 @@ This analysis will apply the two most popular survival modelling techniques, Kap
 
 ## **Sources**
 https://ieeexplore.ieee.org/document/8750715/authors#authors
+
 https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html
 The data was collected using Zillow API and cleaned prior to its use for this project. 
