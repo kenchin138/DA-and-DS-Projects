@@ -8,4 +8,6 @@ Experimental results from the literature show that survival analysis brings some
 This analysis will apply the two most popular survival modelling techniques, Kaplan-Meier and Cox Proportional Hazards, on real estate sales from Feb 2015. The goal is to help to give a client an informed decision on pricing when given a desired time to sell and find suitable property features that can explain the time it takes for a property to sell.
 
 ## **Sources**
+https://ieeexplore.ieee.org/document/8750715/authors#authors
+https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html
 The data was collected using Zillow API and cleaned prior to its use for this project. 
