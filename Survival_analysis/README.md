@@ -1,6 +1,6 @@
 # **Kaplan Meier and Cox Proportional Hazards Survival Analysis** 
 
-Originally developed in the medical field to determine survival rates of a patient, the method can be applied in most problems where the dependent variable is time. In real estate, survival analysis can be used to predict the time a property stays on market before selling. 
+Originally developed in the medical field to determine survival rates of a patient, survival analysis can be applied in most problems where the dependent variable is time. In real estate, it can be used to predict the time a property stays on market before selling. 
 
 Experimental results from the literature show that survival analysis brings some advantages when compared to linear regression analysis. Because time to sale data is right censored, regression will be negatively biased for homes that stay on the market for a long time. Survival curves also offer descriptive quantitative views on the influence that specific house features have on the time on market.
 
