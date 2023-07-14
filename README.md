@@ -4,4 +4,4 @@ Welcome! This GitHub repository serves as a place to store and document a few of
 
 My goal is to upload more projects as I learn new techniques, methods, and best practices during my data analytics journey. 
 
-Some of the dashboards I created can be found on my Tableau Public profile at: https://public.tableau.com/app/profile/ken.chin
+Some of the dashboards I created can be found on my Tableau Public [profile](https://public.tableau.com/app/profile/ken.chin)
