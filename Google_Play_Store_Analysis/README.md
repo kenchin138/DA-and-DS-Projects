@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a comprehensive analysis of the Android app market. Insights are gathered through data on Google Play store app data.
+This project provides a comprehensive look at the Android app market in 2018. Insights are gathered through data on Google Play store app data.
 
 ## Data Source
 
