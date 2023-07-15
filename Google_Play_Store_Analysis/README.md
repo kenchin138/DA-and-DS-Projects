@@ -6,4 +6,4 @@ This project provides a comprehensive look at the Android app market in 2018. In
 
 ## Data Source
 
-App and review data was scraped from the Google Play Store by Lavanya Gupta in 2018 and uploaded to Kaggle. Original files are listed [here](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
+App and review data was scraped from the Google Play Store by Lavanya Gupta and uploaded to Kaggle. Original files are listed [here](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
