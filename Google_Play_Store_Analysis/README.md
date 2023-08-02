@@ -1,4 +1,4 @@
-# Google Play Store Analysis (WIP)
+# Google Play Store Analysis
 
 ## Introduction
 
